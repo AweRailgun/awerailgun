@@ -3,8 +3,12 @@
 
 
 - 📖萌新大学生一枚，CS专业学习中
+
 - 💻欢迎访问[我的博客](https://miku.ie)❤
-<br><br><br><br><br><br><br>
+
+- </> C/C++, Python, HTML/CSS, JavaScripts学习中
+
+<br><br><br>
 ****
 Programming 
 
