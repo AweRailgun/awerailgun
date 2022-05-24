@@ -11,7 +11,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=awerailgun&show_icons=true&theme=buefy&count_private=true" alt="AweRailgun's github stats"/>
 
 
-****
 ## Programming 
 <a href="https://wakatime.com/@2687e8bb-ddde-4a89-89e8-e5fc598d999c"><img src="https://wakatime.com/badge/user/2687e8bb-ddde-4a89-89e8-e5fc598d999c.svg" alt="Total time coded since Oct 28 2021" /></a>
 <br><br><br>
